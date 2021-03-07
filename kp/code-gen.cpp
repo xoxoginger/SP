@@ -23,10 +23,10 @@ int tCG::p05(){ //      E -> $id
 	S1->obj = decor(S1->name);
 	return 0;}
 int tCG::p06(){ //      E -> $int
-	S1->obj = decor(S1->name);
+	//S1->obj = decor(S1->name);
 	return 0;}
 int tCG::p07(){ //      E -> $dec
-	S1->obj = decor(S1->name);
+	//S1->obj = decor(S1->name);
 	return 0;}
 int tCG::p08(){ //      E -> ADD
 	return 0;}
